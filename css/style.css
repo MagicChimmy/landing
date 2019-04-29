@@ -1,0 +1,29 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Cairo:400,700|Merriweather:400,400i,700');
+
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/flexbox.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Cairo;
+}
+
+h1, h2, h3, h4 {
+  font-family: Merriweather;
+  color: #B3FCF8;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: #274C77;
+}
+
+/* Custom design below! */
+
